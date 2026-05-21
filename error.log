@@ -1,0 +1,4 @@
+id=2, status=ERROR, message=failed to connect
+id=4, status=ERROR, message=timeout
+id=6, status=ERROR, message=database error
+id=8, status=ERROR, message=file not found

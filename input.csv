@@ -1,0 +1,9 @@
+id,status,message
+1,OK,started
+2,ERROR,failed to connect
+3,OK,processing
+4,ERROR,timeout
+5,OK,finished
+6,ERROR,database error
+7,OK,retrying
+8,ERROR,file not found
