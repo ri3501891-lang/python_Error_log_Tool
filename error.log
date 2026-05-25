@@ -1,4 +1,4 @@
-id=2, status=ERROR, message=failed to connect
-id=4, status=ERROR, message=timeout
-id=6, status=ERROR, message=database error
-id=8, status=ERROR, message=file not found
+date=2026-05-25, id=2, status=ERROR, message=failed to connect
+date=2026-05-25, id=4, status=ERROR, message=timeout
+date=2026-05-26, id=7, status=ERROR, message=database error
+date=2026-05-27, id=10, status=ERROR, message=file not found

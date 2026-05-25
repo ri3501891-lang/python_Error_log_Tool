@@ -1,9 +1,11 @@
-id,status,message
-1,OK,started
-2,ERROR,failed to connect
-3,OK,processing
-4,ERROR,timeout
-5,OK,finished
-6,ERROR,database error
-7,OK,retrying
-8,ERROR,file not found
+date,id,status,message
+2026-05-25,1,OK,started
+2026-05-25,2,ERROR,failed to connect
+2026-05-25,3,WARNING,high memory usage
+2026-05-25,4,ERROR,timeout
+2026-05-26,5,OK,finished
+2026-05-26,6,WARNING,disk space low
+2026-05-26,7,ERROR,database error
+2026-05-26,8,OK,retrying
+2026-05-27,9,WARNING,cpu usage high
+2026-05-27,10,ERROR,file not found
