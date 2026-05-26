@@ -1,4 +1,4 @@
-# CSV Error Log Tool
+# CSV Error Log Tool　　（生成AI利用）
 
 
 ## 概要
